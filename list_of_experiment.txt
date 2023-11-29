@@ -1,0 +1,17 @@
+fsd list of experiments:
+
+01. basic local git operations
+02. git branching and merging
+03. create cloud account
+04. create and setup a virtual machine
+05. create a simple webapp using cloud services
+06. how to use cloud service for user authentication flow
+07. create a counter app using reactjs
+08. create a login page app using reactjs
+09. create a react router app
+10. single page application like shopping cart
+11. implement dependency injection in spring framework
+12. implement autowiring in spring framework
+12. create a spring app to display employee details
+13. create a rest api using spring boot
+14. implement crud operation using spring boot, restapi and use mongodb for database
